@@ -6,3 +6,5 @@ def using_while
   force=force+1
   end
 end
+
+using_while
